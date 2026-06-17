@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
