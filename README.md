@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0383-ransom-note) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
