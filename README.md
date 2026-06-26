@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
