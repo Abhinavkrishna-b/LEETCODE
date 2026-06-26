@@ -24,6 +24,7 @@ class Solution {
                     freq[s.charAt(left) - 'A']--;
                     left++;
                     freqChar = 0; //Reset frequent character
+                    //Still this inner loop is O(26) ~ O(1)
                     for(int index=0;index<26;index++){
                         freqChar = Math.max(freqChar, freq[index]);
                     }
