@@ -4,6 +4,8 @@ class Solution {
         //Because the limit of int is 2^31-1 
         //If it is passed then n+1 will result in overflow
         if(n == 1)  return 0;
+        //Here always in return there is a plus 1 (1+)
+        //Because That division itself is one operation so we also need to count the current operation
         if(n%2 == 0){
             return 1 + integerReplacement(n/2);
         }
