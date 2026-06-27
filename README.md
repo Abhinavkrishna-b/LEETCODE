@@ -64,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1280-students-and-examinations](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1280-students-and-examinations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
