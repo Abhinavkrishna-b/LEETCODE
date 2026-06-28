@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0383-ransom-note](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
