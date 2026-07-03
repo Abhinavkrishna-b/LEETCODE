@@ -1,20 +1,18 @@
 class Solution {
     public int fib(int n) {
-        //DP approach - Top Down (Memoization)
-        int memo[] = new int[n+1];
-        return fibanocci(n,memo);
-    }
-
-    public int fibanocci(int n,int memo[]){
-        if (n == 0) return 0;
-        if (n == 1 || n == 2) return 1;
-
-        if(memo[n] != 0){
-            return memo[n];
+        //DP - Bottom Up (Tabulation)
+        if(n == 0)  return 0;
+        if(n == 1 || n == 2)    return 1;
+        int dp[] = new int[n+1];
+        //dp[0] is automatically zero
+        dp[1]=1;
+        dp[2]=1;
+        
+        for(int i=3;i<=n;i++){
+            dp[i] = dp[i-1]+dp[i-2];
         }
 
-        memo[n] = fibanocci(n-1, memo) + fibanocci(n-2, memo);
-        return memo[n];
+        return dp[n];
     }
 }
 //Time- O(n)
