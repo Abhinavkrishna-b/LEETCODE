@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
