@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0050-powx-n) |
+| [0279-perfect-squares](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0279-perfect-squares](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0279-perfect-squares) |
 | [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
