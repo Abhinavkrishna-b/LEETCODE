@@ -3,6 +3,8 @@ class Solution {
         //Memoization - Top down dp
 
         //dp[x] = min squares needed to make x
+        //Here it is n because atmax the answer can be like 1+1+1 ...
+        //And n+1 because you need it to start from 1 not 0 index
         int dp[] = new int[n+1];
         return solve(n,dp);
     }
