@@ -1,5 +1,6 @@
 class Solution {
-    //Recursion with overlapping subproblems
+    //Top-Down DP
+    //Intuition - Rob or Skip the current house
     public int rob(int[] nums) {
         // [2,1,1,2] it is not necessary that you need to rob any one house that is adjacent - here to get max money you not rob 1 or 1 instead you go to 2 and 2
         int dp[] = new int[nums.length];
