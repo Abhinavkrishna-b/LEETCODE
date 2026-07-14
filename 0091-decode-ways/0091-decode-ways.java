@@ -37,5 +37,5 @@ class Solution {
         
     }
 }
-//Time- O(2^n)
+//Time- O(n)
 //Space- O(n) - callback stack and dp array
