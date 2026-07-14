@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0566-reshape-the-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -118,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0566-reshape-the-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
