@@ -12,9 +12,10 @@ class Solution {
         }
 
         int gcd=1;
-        for(i=1;i<= Math.min(oddSum,evenSum);i++){
+        for(i=Math.min(oddSum,evenSum);i>=1 ;i--){
             if(oddSum%i == 0 && evenSum%i == 0){
                 gcd=i;
+                break;
             }
         }
         return gcd;
@@ -28,3 +29,4 @@ class Solution {
 //If you sum the first n even numbers, oddSum becomes exactly n(n+1) => n^2 + n.
 //So O(n) + O(n^2) ~ O(n^2)
 //Space- O(1)
+
