@@ -138,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
