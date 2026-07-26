@@ -1,53 +1,35 @@
 class Solution {
     public String decodeString(String s) {
-        //Using a single Character Stack
-        Stack<Character> s1 = new Stack<>();
+        //Using 2 stacks
+        Stack<Integer> countStack = new Stack<>();
+        Stack<String> stringStack = new Stack<>();
+        int digit = 0;
+        String curString = "";
         for(char ch : s.toCharArray()){
-            if(ch == ']'){
-                String temp = "";
-                String digit = "";
-                //Substring 
-                while(s1.peek() != '['){
-                    temp = s1.pop() + temp;
-                }
-                s1.pop();//Pop the '['
-
-                //Digit
-                while(!s1.isEmpty() && s1.peek() >= '0' && s1.peek() <='9'){
-                    digit = s1.pop() + digit;
-                }
-                int count = Integer.parseInt(digit);
-                //Form the Decoded string
-                //Repeat the SubString digit times
-                String str = temp.toString();
-                StringBuilder decoded = new StringBuilder();
-                for (int i = 0; i < count; i++) {
-                    decoded.append(str);
-                }
-                for (char c : decoded.toString().toCharArray()) {
-                    s1.push(c);
-                }
+            if(ch >= '0' && ch <= '9'){
+                digit = digit*10 + (ch-'0');
             }
-            else{
-                s1.push(ch);
+            else if(ch >= 'a' && ch <= 'z'){
+                curString+=ch;
+            }
+            else if(ch == '['){
+                countStack.push(digit);
+                stringStack.push(curString);
+                digit = 0;
+                curString = "";
+            }
+            else{ //In case of ']'
+                int k = countStack.pop();
+                String t = curString;
+                //Here k-1 because there is already the same substring in curstring so k-1
+                for(int i=0;i<k-1;i++){
+                    curString+=t;
+                }
+                curString = stringStack.pop() + curString;
             }
         }
-        StringBuilder result = new StringBuilder();
-        while(!s1.isEmpty()){
-            result.append(s1.pop());
-        }
-        int i=0,j=result.length()-1;
-        while(i<=j){
-            char temp = result.charAt(i);
-            result.setCharAt(i, result.charAt(j));
-            result.setCharAt(j, temp);
-            i++;
-            j--;
-        }
-        return result.toString();
+        return curString;
     }
 }
-//Time- O(n+m)
-//Space- O(m)
-//n = length of the encoded input string
-//m = length of the decoded output string
+//Time- O(max(k) n)
+//Space- O(n+m)
