@@ -21,5 +21,5 @@ class Solution {
         return 0;
     }
 }
-//Time- O(n)
+//Time- O(n+m)
 //Space- O(1)
