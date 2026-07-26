@@ -3,7 +3,7 @@ class Solution {
         int n1 = 0;
         int n2 = 0;
         int i = 0, j = 0;
-        while(i<version1.length() || j<version2.length()){
+        while(i<version1.length() || j<version2.length()){ //Here check for || because the inner loops checks the bounds of both versions in seperate loops Edge case : 1.0.1 and 1
             while(i<version1.length() && version1.charAt(i) != '.'){
                 n1 = n1*10+(version1.charAt(i)-'0');
                 i++;
