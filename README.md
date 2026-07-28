@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0394-decode-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
