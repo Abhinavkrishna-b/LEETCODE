@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## String
 |  |
 | ------- |
@@ -114,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
