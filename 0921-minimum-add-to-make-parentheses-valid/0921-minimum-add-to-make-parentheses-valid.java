@@ -1,22 +1,23 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> parentheses = new Stack<>();
-        int insertCount = 0;
+        //You can view the leetcode editorial solution so see that to better undertanding
+        int openBracket = 0;
+        int minAdd = 0;
         for(char ch : s.toCharArray()){
             if(ch == '('){
-                parentheses.push(ch);
+                openBracket++;
             }
-            else if(ch == ')' && parentheses.isEmpty() || parentheses.pop() != '('){
-                insertCount++;
+            else if(ch == ')' ){
+                if(openBracket == 0){
+                    minAdd++;
+                }
+                else{
+                    openBracket--;
+                }
             }
         }
-        //If the input is ()((( then the stack has three ( unbalanced
-        while(!parentheses.isEmpty()){
-            insertCount++;
-            parentheses.pop();
-        }
-        return insertCount;
+        return minAdd+openBracket;
     }
 }
-//Time- O(n)+O(m) ~ O(n)
-//Space- O(n)
+//Time- O(n)
+//Space- O(1)
