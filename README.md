@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0383-ransom-note) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
