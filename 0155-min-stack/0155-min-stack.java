@@ -1,36 +1,44 @@
-//But Time Complexity is O(n) as we iterate in pop to find the next min value
+//Here Time Complexity is O(1)
+//And Space Complexity is O(n)
 class MinStack {
     Stack<Integer> stack;
+    Stack<Integer> minStack;
     int min;
     public MinStack() {
-        //Initialize the stack
-        stack = new Stack<>();
+        stack=new Stack<>();
+        minStack = new Stack<>();
         min = Integer.MAX_VALUE;
     }
     
     public void push(int value) {
         if(stack.isEmpty()){
             min = value;
+            stack.push(min);
+            minStack.push(min);
+            return;
+        }
+
+        if(value < min){
+            min = value;
+            stack.push(value);
+            minStack.push(min);
         }
         else{
-            min = Math.min(min,value);
+            stack.push(value);
+            minStack.push(min);
         }
-        stack.push(value);
     }
     
     public void pop() {
-        int removed = stack.pop();
-        if(removed == min){
-            //We need to find the next min in the stack which time is O(n)
-            if(stack.isEmpty()){
-                //reset min to max value
-                min = Integer.MAX_VALUE;
-                return;
+        if(!stack.isEmpty()){
+            stack.pop();
+            minStack.pop();
+            //Updating the min after is important
+            if(!minStack.isEmpty()){
+                min = minStack.peek();
             }
-            min = stack.peek();
-            //This loop iterates the stack in FIFO order
-            for(int num : stack){
-                min = Math.min(min,num);
+            else{
+                min = Integer.MAX_VALUE;
             }
         }
     }
@@ -40,7 +48,7 @@ class MinStack {
     }
     
     public int getMin() {
-        return min;
+        return minStack.peek();
     }
 }
 
