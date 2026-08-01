@@ -188,10 +188,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
