@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
@@ -199,4 +200,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
