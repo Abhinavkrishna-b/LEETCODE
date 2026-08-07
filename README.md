@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0394-decode-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0707-design-linked-list](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0707-design-linked-list) |
 ## Enumeration
 |  |
