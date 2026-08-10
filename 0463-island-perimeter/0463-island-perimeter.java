@@ -31,3 +31,5 @@ class Solution {
 }
 //Time- O(rc)+O(rc) ~ O(rc)
 //Space- O(rc)
+//Even if i use hashset it would still be O(rc) space because the grid can contain no 0 and all 1
+ 
