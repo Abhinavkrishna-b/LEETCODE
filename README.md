@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0290-word-pattern](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0273-integer-to-english-words](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
