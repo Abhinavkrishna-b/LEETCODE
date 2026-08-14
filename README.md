@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Dynamic Programming
