@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
