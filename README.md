@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
