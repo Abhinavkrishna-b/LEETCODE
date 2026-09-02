@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
