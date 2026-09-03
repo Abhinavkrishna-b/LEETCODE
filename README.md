@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Number Theory
 |  |
 | ------- |
@@ -301,8 +304,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0079-word-search) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
