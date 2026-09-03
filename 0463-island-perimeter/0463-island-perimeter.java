@@ -4,32 +4,28 @@ class Solution {
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j] == 1){
-                    //As there is only one island exactly
-                    return Perimeter(grid,i,j,visited);
+                    return perimeter(grid, visited, i, j);
                 }
             }
         }
         return 0;
     }
 
-    public int Perimeter(int grid[][], int r, int c, int visited[][]){
-        if(r >= grid.length || c >= grid[0].length || r<0 || c<0 || grid[r][c] == 0){
+    public int perimeter(int grid[][],int visited[][], int r, int c){
+        if(r<0 || r>=grid.length || c<0 || c>=grid[0].length){
+            return 1;
+        }
+        if(grid[r][c] == 0){
             return 1;
         }
         if(visited[r][c] == 1){
             return 0;
         }
-
-        int result = 0;
         visited[r][c] = 1;
-        result += Perimeter(grid,r-1,c,visited);//Going up
-        result += Perimeter(grid,r+1,c,visited); //Going down
-        result += Perimeter(grid,r, c-1,visited);//Going left
-        result += Perimeter(grid,r,c+1,visited);//Going right
+        int result = perimeter(grid, visited, r+1, c) + perimeter(grid, visited, r-1, c) + perimeter(grid, visited, r, c+1) + perimeter(grid, visited, r, c-1);
+
         return result;
     }
 }
-//Time- O(rc)+O(rc) ~ O(rc)
+//Time- O(rc) and here the recursion time complexity is constant as each path of 1 is visited only once
 //Space- O(rc)
-//Even if i use hashset it would still be O(rc) space because the grid can contain no 0 and all 1
- 
