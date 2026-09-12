@@ -26,3 +26,4 @@ class Solution {
 }
 //Time- O(9^k)
 //Space- O(n)
+//Note i pass the start initially as 1 and i intialized for start and again recursion happens for i+1
