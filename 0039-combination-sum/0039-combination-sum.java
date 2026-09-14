@@ -1,29 +1,29 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> result =  new ArrayList<>();
         backtrack(candidates, target, 0, 0, new ArrayList<>(), result);
-        //Note we use start here to avoid duplicate combinations (we can start from start+1 if start is included)
         return result;
     }
 
-    public void backtrack(int candidates[], int target, int start, int sum, List<Integer> temp, List<List<Integer>> result){
+    public void backtrack(int candidates[], int target, int sum, int start, List<Integer> temp, List<List<Integer>> result){
         if(sum == target){
-            result.add(new ArrayList<>(temp)); //But temp is a mutable ArrayList, and you continue modifying the same temp during backtracking.
+            result.add(new ArrayList<>(temp));
             return;
         }
         if(sum > target){
             return;
         }
-        //Do not start from 0 index it result in duplicate combinations
-        //So start from the index excluding the prev indexes i.e the variable start
         for(int i=start;i<candidates.length;i++){
             temp.add(candidates[i]);
             sum+=candidates[i];
-            backtrack(candidates, target, i, sum, temp, result);
+            backtrack(candidates, target, sum, i, temp, result);
+            //Here we pass i as start to make sure we do not produce duplicates [2,2,3] and [3,2,2] 
+            //And it we also not pass i+1 because the question says [1,1] and [1] is valid by changing the freq of count
             sum-=candidates[i];
             temp.remove(temp.size()-1);
         }
     }
 }
-//Time- O(n^t)
+//Time- O(n . n^d) that first n is for the inner loop and n^d is recursion time complexity
+//Where d is the depth of the tree
 //Space- O(n)
