@@ -19,6 +19,7 @@ class Solution {
         for(int i=start;i<candidates.length;i++){
             if(i > start && candidates[i] == candidates[i-1]){
                 //i > start (not i>0) because to make sure in [1,2,2] to make sure we use the 1st 2 at index 1
+                //Also because [1,2,2] if start = 1 then i=start that means we should not consider the prev value here because it is already include in the result so we only will consider [2,2] that is why i > start works
                 continue;
             }
             temp.add(candidates[i]);
