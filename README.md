@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0273-integer-to-english-words](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0273-integer-to-english-words) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0279-perfect-squares) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0216-combination-sum-iii) |
 ## Union-Find
 |  |
