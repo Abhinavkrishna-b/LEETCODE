@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0867-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
