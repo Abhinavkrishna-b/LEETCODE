@@ -1,3 +1,4 @@
+//you must see the leetcode note to see a edge case
 class Solution {
     public int climbStairs(int n) {
         if (n == 0 || n == 1) {
