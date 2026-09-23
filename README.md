@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0198-house-robber) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
