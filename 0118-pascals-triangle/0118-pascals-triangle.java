@@ -2,6 +2,7 @@ class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> result = new ArrayList<>();
         result.add(Arrays.asList(1));
+        //Here the condition is numRows - 1 because you already added [1]
         for(int i=0;i<numRows-1;i++){
 
             //Getting the last row values from result
