@@ -1,8 +1,5 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        //You cannot use hashSet here ig because you need to track of how many repeated char are there in the set but we only have contains in the set not freq count
-        //Orelse we can use hashMap ig - we need to maintain the frequency count
-
         int left=0,right=0;
         int maxSubStr = 0;
 
