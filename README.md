@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0040-combination-sum-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
