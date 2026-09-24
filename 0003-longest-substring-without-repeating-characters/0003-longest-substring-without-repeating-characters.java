@@ -1,24 +1,19 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        //Sliding window Approcah (Dynamic window)
-        if(s.length() == 0) return 0;
-        int i=0,j=0;
-        int longestSubStr = 0;
-        HashSet<Character> subString = new HashSet<>();
-        
-        while(i<s.length() && j<s.length()){
-            while(subString.contains(s.charAt(j))){
-                subString.remove(s.charAt(i));
+        HashSet<Character> window = new HashSet<>();
+        int i = 0, j = 0;
+        int longest = 0;
+        while(i < s.length() && j < s.length()){
+            while(window.contains(s.charAt(j))){
+                window.remove(s.charAt(i));
                 i++;
+                //Here do not decrement longest it must be only done by max()
             }
-
-            subString.add(s.charAt(j));
-            longestSubStr = Math.max(longestSubStr, (j-i)+1);
+            window.add(s.charAt(j));
+            longest = Math.max(longest, (j-i+1));
             j++;
-
         }
-        return longestSubStr;
-
+        return longest;
     }
 }
 //Time- O(n)
