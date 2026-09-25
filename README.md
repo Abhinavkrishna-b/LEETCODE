@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0273-integer-to-english-words](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0273-integer-to-english-words](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0383-ransom-note) |
