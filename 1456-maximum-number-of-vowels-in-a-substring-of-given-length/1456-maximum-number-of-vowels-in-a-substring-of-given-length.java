@@ -1,24 +1,24 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        int left = 0, right = 0;
+        int i=0,j=0;
         int count = 0;
-        int maxCount = 0;
-
-        while(right < s.length() && left < s.length()){
-            if(isVowel(s.charAt(right))){
-                count++;
-            }
-
-            if((right-left+1) == k){
-                maxCount = Math.max(count, maxCount);
-                if(isVowel(s.charAt(left))){
-                    count--;
+        int curCount = 0;
+        while(i<s.length() && j<s.length()){
+            while((j-i+1) > k){
+                if(isVowel(s.charAt(i))){
+                    curCount--;
                 }
-                left++;
+                i++;
             }
-            right++;
+            if(isVowel(s.charAt(j))){
+                curCount++;
+            }
+            if((j-i+1) == k){
+                count = Math.max(count, curCount);
+            }
+            j++;
         }
-        return maxCount;
+        return count;
     }
 
     public boolean isVowel(char ch){
@@ -28,3 +28,5 @@ class Solution {
         return false;
     }
 }
+//Time- O(n)
+//Space- O(1)
