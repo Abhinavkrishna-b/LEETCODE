@@ -5,7 +5,7 @@ class Solution {
         int i=0,j=0;
         int count = 0;
         while(i<nums.length && j<nums.length){
-            //As the inner while id depended on how many 0's and 1's present
+            //As the inner while is depended on how many 0's and 1's present
             freq[nums[j]]++;
 
             while(freq[0] > k){
