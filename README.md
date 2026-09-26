@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0867-transpose-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## String
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 ## Database
 |  |
