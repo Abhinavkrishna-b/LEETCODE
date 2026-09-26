@@ -1,3 +1,4 @@
+//Must Refer the notes
 class Solution {
     public int characterReplacement(String s, int k) {
         int left=0,right=0;
