@@ -1,7 +1,6 @@
 class Solution {
-    //Refer Notes in leetcode and see that video if any doubt
     public List<String> letterCombinations(String digits) {
-        if(digits.length() == 0)  return new ArrayList<>();
+        List<String> result = new ArrayList<>();
         HashMap<Character, String> words = new HashMap<>();
         words.put('2',"abc");
         words.put('3',"def");
@@ -11,25 +10,22 @@ class Solution {
         words.put('7',"pqrs");
         words.put('8',"tuv");
         words.put('9',"wxyz");
-
-        List<String> result = new ArrayList<>();
-        backtrack(digits, 0, new StringBuilder(), words, result);
+        backtrack(digits, 0, words, new StringBuilder(), result);
         return result;
     }
 
-    public void backtrack(String digits, int i, StringBuilder temp, Map<Character, String> words, List<String> result){
-        
-        if(i >= digits.length()){
-            result.add(temp.toString());
+    public void backtrack(String digits, int start, HashMap<Character,String> words, StringBuilder temp, List<String> result){
+        if(start >= digits.length()){
+            result.add(new String(temp));
             return;
         }
-        String word = words.get(digits.charAt(i));
-        for(char ch : word.toCharArray()){
-            temp.append(ch);
-            backtrack(digits, i+1, temp, words, result);
+        String word = words.get(digits.charAt(start));
+        for(int i=0;i<word.length();i++){
+            temp.append(word.charAt(i));
+            backtrack(digits, start+1, words, temp, result);
             temp.deleteCharAt(temp.length()-1);
         }
     }
 }
-//Time- O(4^l)
-//Space- O(n) but the hashmap is constant space 
+//Time- O(4^n) 4 -> we have only 3 to 4 choice per level and the depth goes upto n
+//Space- O(n) -> this is for stack (recursion) only hashmap space is constant
