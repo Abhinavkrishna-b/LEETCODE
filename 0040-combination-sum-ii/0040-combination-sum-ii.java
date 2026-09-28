@@ -1,3 +1,4 @@
+//Go through notes to better understanding
 class Solution {
     //The catch if you once used a digit in the combination you cannot use that again eg you cannot have combination like [5,3] and [5,2,1] as 5 repeats in both - you can't reuse the element
     //Note you do this same sorting to solve this same in the 3Sum problem
@@ -24,6 +25,7 @@ class Solution {
             }
             temp.add(candidates[i]);
             sum+=candidates[i];
+            //Here i+1 just because i cannot include multiple duplicates with different freq like we did in combination sum I so we pass i+1
             backtrack(candidates, target, i+1, sum, temp, result);
             temp.remove(temp.size()-1);
             sum-=candidates[i];
