@@ -1,12 +1,12 @@
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> result = new ArrayList<>();
-        backtrack(k, n, 1, 0, 0, new ArrayList<>(), result);
+        backtrack(k, n, 0, 0, 1, new ArrayList<>(), result);
         return result;
     }
 
-    public void backtrack(int k, int n, int start, int sum, int count, List<Integer> temp, List<List<Integer>> result){
-        if(k != 0 && k == count){
+    public void backtrack(int k, int n, int count, int sum, int start, List<Integer> temp, List<List<Integer>> result){
+        if(count == k){
             if(sum == n){
                 result.add(new ArrayList<>(temp));
             }
@@ -16,12 +16,12 @@ class Solution {
             temp.add(i);
             sum+=i;
             count++;
-            backtrack(k, n, i+1, sum, count, temp,result);
-            temp.remove(temp.size()-1);
-            sum-=i;
+            backtrack(k, n, count, sum, i+1, temp, result);
             count--;
+            sum-=i;
+            temp.remove(temp.size()-1);
         }
     }
 }
-//Time- O(9 . 9^k) where k is the depth of the tree
+//Time- O(9 . 9^k)
 //Space- O(n)
