@@ -16,6 +16,7 @@ class Solution {
         for(int i=start;i<candidates.length;i++){
             temp.add(candidates[i]);
             sum+=candidates[i];
+            //Very very important pass i here not start
             backtrack(candidates, target, sum, i, temp, result);
             //Here we pass i as start to make sure we do not produce duplicates [2,2,3] and [3,2,2] 
             //And it we also not pass i+1 because the question says [1,1] and [1] is valid by changing the freq of count
