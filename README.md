@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
