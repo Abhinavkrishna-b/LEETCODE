@@ -1,3 +1,4 @@
+//BFS
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
         //Put Integer.MAX_VALUE for unvisited vertex
