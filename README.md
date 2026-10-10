@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0867-transpose-matrix) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Number Theory
