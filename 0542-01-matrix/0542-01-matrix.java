@@ -1,30 +1,40 @@
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
-        int r = mat.length, c = mat[0].length;
-        int result[][] = new int[r][c];
-
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
+        //Put Integer.MAX_VALUE for unvisited vertex
+        Queue<int []> queue = new LinkedList<>();
+        for(int i=0;i<mat.length;i++){
+            for(int j=0;j<mat[0].length;j++){
                 if(mat[i][j] == 0){
-                    result[i][j] = 0;
+                    queue.add(new int[] {i,j});
+                    continue;
                 }
-                else{
-                    result[i][j] = Integer.MAX_VALUE;
-                    for(int k=0;k<r;k++){
-                        for(int l=0;l<c;l++){
-                            if(mat[k][l] == 0){
-                                //Need to find the distance
-                                //So basically the distance the how much steps we are away(move) from the row + how much step we are away(move) from the col
-                                int dist = Math.abs(i-k) + Math.abs(j-l);
-                                result[i][j] = Math.min(dist, result[i][j]);
-                            }
-                        }
-                    }
-                }
+                mat[i][j] = Integer.MAX_VALUE;
             }
         }
-        return result;
+
+        while(!queue.isEmpty()){
+            int rm[] = queue.remove();
+            int R = rm[0], C = rm[1];
+            //You only visit the unvisisted vertex
+            if(R>0 && mat[R-1][C] == Integer.MAX_VALUE){
+                mat[R-1][C] = mat[R][C] + 1;
+                queue.add(new int[] {R-1,C});
+            }
+            if(R<mat.length-1 && mat[R+1][C] == Integer.MAX_VALUE){
+                mat[R+1][C] = mat[R][C] + 1;
+                queue.add(new int[] {R+1,C});
+            }
+            if(C>0 && mat[R][C-1] == Integer.MAX_VALUE){
+                mat[R][C-1] = mat[R][C] + 1;
+                queue.add(new int[] {R,C-1});
+            }
+            if(C<mat[0].length-1 && mat[R][C+1] == Integer.MAX_VALUE){
+                mat[R][C+1] = mat[R][C] + 1;
+                queue.add(new int[] {R,C+1});
+            }
+        }
+        return mat;
     }
 }
-//Time- O( (rc)^2 )
+//Time- O(rc)
 //Space- O(rc)
