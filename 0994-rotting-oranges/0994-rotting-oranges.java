@@ -30,6 +30,8 @@ class Solution {
             //for each element in the queue we need to pop it and also add the adjacent fresh oranges that is gone rotten next
             time++;
             int size = queue.size();
+
+            //This for loop is important - as it process the oranges as a set (through out the loop)
             for(int i=0;i<size;i++){
                 int rm[] = queue.remove();
                 //for each rotten orange we see the top,bottom,left,right if fresh orange present
