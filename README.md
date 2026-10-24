@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [2409-count-days-spent-together](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
