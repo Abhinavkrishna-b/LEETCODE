@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Number Theory
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
