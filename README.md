@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0078-subsets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0290-word-pattern) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0076-minimum-window-substring) |
