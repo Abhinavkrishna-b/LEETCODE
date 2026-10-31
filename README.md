@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0079-word-search) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
