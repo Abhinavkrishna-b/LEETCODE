@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0048-rotate-image) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
