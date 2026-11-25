@@ -55,6 +55,7 @@ class Solution {
                     freshCount--;
                     grid[R][C-1] = 2;
                 }
+                //Right
                 if(C<grid[0].length-1 && grid[R][C+1] == 1){
                     queue.add(new int[] {R,C+1} );
                     freshCount--;
@@ -72,3 +73,4 @@ class Solution {
 }
 //Time- O(rc)
 //Space- O(rc)
+
