@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0397-integer-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Abhinavkrishna-b/LEETCODE/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
